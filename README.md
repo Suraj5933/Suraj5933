@@ -1,4 +1,4 @@
-![MasterHead](https://ibagroupit.com/wp-content/uploads/2020/05/banner_1300-357_devops.png)
+![MasterHead]https://content.cloudthat.com/resources/wp-content/uploads/2022/12/Create-a-Workflow.png
 <h1 align="center">Hi 👋, I'm Suraj Khade</h1>
 <h3 align="center">A passionate Cloud and DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
